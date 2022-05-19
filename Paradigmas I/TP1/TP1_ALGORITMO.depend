@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1651781396 source:d:\projects\github\_uni\tp1_algoritmo\main.c
+	<ctype.h>
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
